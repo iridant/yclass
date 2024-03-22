@@ -37,6 +37,7 @@ cargo r --release
 * [x] - ~~Pointer preview on hover with unknown fields.~~
 * [ ] - Show in which module pointer address falls.
 * [ ] - Disassembly of function pointers.
+* [ ] - Add 32 bit Ptr type so that you can use this with 32 bit applications.
 
 # Plugin API
 You can write a plugin to change the way `YClass` reads memory.
